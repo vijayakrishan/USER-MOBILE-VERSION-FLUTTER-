@@ -67,3 +67,17 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
+
+# Backend (Java & Maven)
+target/
+**/target/
+out/
+**/out/
+*.jar
+*.war
+*.ear
+*.nar
+.flattened-pom.xml
+hs_err_pid*
+replay_pid*
+
